@@ -29,7 +29,7 @@ Teaching Assistant (TA): Zhenchen Tang, M.S., Institute of Automation CAS, tangz
 
 # 🥇 LeaderBoard
 ## AI_Generated_Text Detection
-UCAS_AISAD_TEXT-test1
+UCAS_AISAD_TEXT-test1  
 **Week1：**
 |Team | AUC | ACC | F1 | Avg_Time(s) | Final_Score |
 |:----:|:----:|:----:|:----:|:----:|:----:|
