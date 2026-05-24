@@ -32,7 +32,7 @@ Teaching Assistant (TA): Zhenchen Tang, M.S., Institute of Automation CAS, tangz
 - UCAS_AISAD_TEXT-test1
 **Week1：**
 |Team | AUC | ACC | F1 | Avg_Time(s) | Final_Score |
-:----:|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 |Baseline| 0.710925572 | 0.67125 | 0.738983724 | 0.023578906 | 0.701828715 |
 |MAIAYN	|0.740808517	|0.668625	|0.682045336|	0.006667587|	0.713277144|
 
@@ -47,10 +47,11 @@ UCAS_AISAD_TEXT-test2
 
 
 ## AI_Text Evasion
+**Week1：**
+|Team | AUC | ACC | F1 | Avg_Time(s) | Final_Score |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|文本对抗111|	0.694080373	|0.624541667|	0.711694129|	0.023291674|	0.674980137|
 
-|Team | Week | 1-AUC |
-|:-----:|:----:|:----:|
-|Baseline| - |   |
 
 
 
