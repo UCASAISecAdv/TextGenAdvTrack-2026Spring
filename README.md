@@ -1,4 +1,4 @@
-# ✨ TextGenAdvTrack - Spring 2026
+<img width="595" height="29" alt="image" src="https://github.com/user-attachments/assets/2582efdc-ce9c-4a95-bb9f-52b3ff8bf624" /># ✨ TextGenAdvTrack - Spring 2026
 Hi, every one! 
 
 This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2026.
@@ -72,12 +72,13 @@ UCAS_AISAD_TEXT-test2
 **Week2：**
 |Team | AUC | ACC | F1 | Avg_Time(s) | Final_Score |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|baseline_argugpt|	0.710925572|	0.67125|	0.738983724|	0.023578906|	0.701828715|
+|国科大八骏图|	0.465421221|	0.488375|	0.652674455|	0.029901224|	0.491032678|
 |MAIAYN_argugpt|	0.497001604|	0.495375|	0.532484076|	0.046186634|	0.50006187|
 |DeepSafe_argugpt|	0.599502715|	0.500125|	0.666740743|	0.029749804|	0.576413203|
 |aaaa显卡批发_argugpt|	0.654011563|	0.622875|	0.643169722|	0.022213302|	0.64358641|
 |文本对抗111_argugpt|	0.694080373|	0.624541667|	0.711694129|	0.032835307|	0.674980137|
 |PaperIsAllYouNeed_argugpt|	0.707977829|	0.663458333|	0.734282988|	0.023834293|	0.697252496|
+|baseline_argugpt|	0.710925572|	0.67125|	0.738983724|	0.023578906|	0.701828715|
 
 
 
