@@ -1,4 +1,4 @@
-# ✨ TextGenAdvTrack - Spring 2026
+<img width="595" height="29" alt="image" src="https://github.com/user-attachments/assets/a9c87b68-a0cd-406d-ad44-9a4aa2d1c170" /><img width="595" height="29" alt="image" src="https://github.com/user-attachments/assets/b8c81ea9-8d40-4a51-bbc2-a313a469fcbe" /># ✨ TextGenAdvTrack - Spring 2026
 Hi, every one! 
 
 This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2026.
@@ -44,6 +44,7 @@ UCAS_AISAD_TEXT-test1
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |QU|	0.856689833|	0.796416667|	0.809868472|	0.032692861|	0.833925747|
 |Perplexity-Hunters|	0.804935786|	0.753291667|	0.772505475|	0.009227717|	0.786199519|
+|DeepSafe|	0.816698859	|0.74575	|0.710146304|	0.042295195|	0.784758946|
 |总是检测不队|	0.758977584|	0.758958333|	0.727521078|	0.001678997|	0.755826158|
 |PaperIsAllYouNeed|	0.775563046|	0.687708333|	0.693844206|	0.009957275|	0.741034748|
 |aaaa显卡批发|	0.779751369|	0.678083333|	0.664437109|	0.058105692|	0.737719532|
@@ -64,6 +65,7 @@ UCAS_AISAD_TEXT-test2
 |:-----:|:----:|:----:|:----:|:----:|:----:|
 |QU|	0.918512484|	0.867125|	0.858537018|	0.0487342|	0.897098692|
 |总是检测不队|	0.880019958|	0.754166667|	0.794825428|	0.001964004|	0.833744518|
+|DeepSafe|	0.829730777|	0.752833333|	0.715927593|	0.027611894|	0.795281225|
 |aaaa显卡批发|	0.828016651|	0.742541667|	0.712296876|	0.064820649|	0.790802178|
 |Perplexity-Hunters|	0.817103814|	0.719083333|	0.769819051|	0	|0.782969194|
 |PaperIsAllYouNeed|	0.796856949|	0.744291667|	0.681938326|	0.037182533|	0.769595502|
