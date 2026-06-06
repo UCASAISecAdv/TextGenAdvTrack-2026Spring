@@ -1,4 +1,4 @@
-<img width="1008" height="337" alt="image" src="https://github.com/user-attachments/assets/71230c5d-6179-4687-8214-20dcc5db5736" /><img width="810" height="29" alt="image" src="https://github.com/user-attachments/assets/2dc2b4a1-cb43-4bf6-82c9-9d1995f425be" /># ✨ TextGenAdvTrack - Spring 2026
+# ✨ TextGenAdvTrack - Spring 2026
 Hi, every one! 
 
 This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2026.
